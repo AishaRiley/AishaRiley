@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @AishaRiley
-- 👀 I’m interested in ... building software and working on computers
-- 🌱 I’m currently learning ... just graduated from Owensboro Community and Technical College with a degree in Computer Information Technology
+Hello
 
-<!---
-AishaRiley/AishaRiley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My name is Aisha Riley and I am looking to start my career as a Software Engineer.  I have some experience in HTML, CSS, C++, Python, Mongoose, Node.js, and JavaScript. I began my IT experience in the IT HelpDesk environment.  Solving customers or user problems and facing challenges was the biggest obstacles of being in the Help Desk arena.  I solved many user's problems and challenges through learning and going the extra mile.  If there was an issue that can be solved in another way or taking that extra step was the thing that I was willing to do to make sure users were satisfied.  What I loved the most about working in the help desk arena is the satisfaction of making a user happy and lifting their burdens so they can proceed with their daily activities.  After three years of being in the help desk environment, I had to step back from the workforce to be a caretaker for my mother until her death in May 2021.  After her death, it was time for me to think about the next steps in my life.  While my mom was alive, I was going back to school to advance my career in Information Technology and also realized that I enjoy building webpages and writing codes.  I realized that software design was the perfect way to not only use my creative side but can also be used as a method of problem-solving for the user.  Software Design can also bring challenges that I am prepare to face.
